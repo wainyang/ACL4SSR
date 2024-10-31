@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-KEYWORD,m-team 
- ##自定义
+## 自定义
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,wainyang.eu.org
 DOMAIN-SUFFIX,cloudflareaccess.com
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,account.synology.com
 PROCESS-NAME,tailscaled
 DOMAIN-KEYWORD,plex 
-#Synology
+## Synology
 DOMAIN,d2f0395ykn6hxb.cloudfront.net
 DOMAIN-SUFFIX,diskstation.me
 DOMAIN-SUFFIX,dscloud.biz
