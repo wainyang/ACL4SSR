@@ -1,7 +1,6 @@
 ## wain自定义直连网站
 ## 自定义
 DOMAIN-SUFFIX,wainyang.eu.org
-DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,wainyang.eu.org
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,checkip.synology.com
@@ -12,6 +11,8 @@ DOMAIN-SUFFIX,account.synology.com
 PROCESS-NAME,tailscaled
 DOMAIN-KEYWORD,plex 
 ## Cloudflare-cn
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
 DOMAIN-SUFFIX,cf-ns.site
