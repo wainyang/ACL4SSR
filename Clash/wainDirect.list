@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,checkport.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,account.synology.com
 PROCESS-NAME,tailscaled
-DOMAIN-KEYWORD,plex 
+DOMAIN-KEYWORD,plex
+DOMAIN-KEYWORD,oracle
 ## Cloudflare-cn
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
