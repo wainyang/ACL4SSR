@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,Linux.do
 DOMAIN-KEYWORD,yahoo
+DOMAIN-KEYWORD,deepseek
 # 内容：Spotify
 # 数量：9条
 USER-AGENT,Spotify*
