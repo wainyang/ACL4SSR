@@ -22,7 +22,13 @@ DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
-# 内容：tmdb
-# 数量：2条
+# 内容：媒体与刮削图源 (TMDB / Douban / Bangumi / MusicBrainz)
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,m.media-amazon.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,musicbrainz.org
